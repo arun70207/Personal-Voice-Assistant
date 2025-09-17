@@ -1,6 +1,7 @@
 C:\Users\ARUN\Downloads\lk_2.4.14_windows_amd64
 
-lk app create --template agent-starter-android --sandbox myassistent-1ww2y4 --api-key APIskHhkB2WdW9b --api-secret Ue8hNubQs1SYU7TvwAb4O0hoad3baAwormm4ZLZZ4Gc
+lk app create --template agent-starter-android --sandbox myassistent-***** --api-key APIs******W9b --api-secret Ue8hNu***********ad3baAwormm4ZLZZ4Gc
 
 For more help view your project's README.md file or join our Slack community at
+
 https://livekit.io/join-slack.
