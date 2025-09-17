@@ -1,5 +1,6 @@
-GOOGLE_API_KEY=AIzaSyA8gunCFmlKe8tA6o2NX6Ks2QU0DQtpKlY
+GOOGLE_API_KEY=AIzaSyA8gun***********QU0DQtpKlY
 
-LIVEKIT_URL=wss://my-assistent-07vj2489.livekit.cloud
-LIVEKIT_API_KEY=APIskHhkB2WdW9b
-LIVEKIT_API_SECRET=Ue8hNubQs1SYU7TvwAb4O0hoad3baAwormm4ZLZZ4Gc
+LIVEKIT_URL=wss://my-assistent-******.livekit.cloud
+LIVEKIT_API_KEY=APIs*******9b
+
+LIVEKIT_API_SECRET=Ue8hNubQs1SY***********Z4Gc
