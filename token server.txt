@@ -1,18 +1,19 @@
 winget install LiveKit.LiveKitCLI
 
 lk app create \
-	--sandbox myassistent-1ww2y4
+	--sandbox myassistent-******
 
 
 
-lk token create --api-key APIskHhkB2WdW9b --api-secret Ue8hNubQs1SYU7TvwAb4O0hoad3baAwormm4ZLZZ4Gc --join --room test_room --identity test_user --valid-for 24h
+lk token create --api-key APIsk*******W9b --api-secret Ue8hNubQs1S*************rmm4ZLZZ4Gc --join --room test_room --identity test_user --valid-for 24h
 
 
 
 
 Git patch generate tocan
 
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTQ5MTUyMTUsImlkZ
-W50aXR5IjoidGVzdF91c2VyIiwiaXNzIjoiQVBJc2tIaGtCMldkVzliIiwibmFtZSI6InRlc3RfdXNlc
-iIsIm5iZiI6MTc1NDgyODgxNSwic3ViIjoidGVzdF91c2VyIiwidmlkZW8iOnsicm9vbSI6InRlc3Rfc
-m9vbSIsInJvb21Kb2luIjp0cnVlfX0.NVSLJVV1WV09UfwjxJ3ySLcrx71gnyUXsGATZ7sgDjM
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHA*************************************************************
+*******************************************************
+********************************************8ZW8iOnsicm9vbSI6InRlc3Rfc
+
+m9vbSIsInJ*****************************************V09UfwjxJ3ySLcrx71gnyUXsGATZ7sgDjM
